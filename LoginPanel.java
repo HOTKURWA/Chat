@@ -1,4 +1,4 @@
-package test;
+package Chat;
 
 import java.awt.Color;
 import java.awt.event.*;

@@ -1,4 +1,4 @@
-package test;
+package Chat;
 
 public class MainWindow {
     public void one(String UserName)
